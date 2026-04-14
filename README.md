@@ -1,2 +1,11 @@
 # PasswordManager
-Questo progetto ti fa salvare/eliminare dati di account e ti mostra tutto quello che hai nel json con semplici comandi
+Un gestore di password da terminale. Salva, cerca e rimuove dati di account, tutto salvato in un file JSON.
+## Comandi
+Per avviare:
+python PM.py
+altri comandi(quando hai avviato):
+- aggiungi
+- rimuovi
+- mostra
+- cerca
+- esci
